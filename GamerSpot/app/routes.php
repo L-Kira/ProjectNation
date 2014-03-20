@@ -11,7 +11,10 @@
 |
 */
 
-Route::get('/', function()
+/*Route::get('/', function()
 {
 	return View::make('hello');
-});
+});*/
+
+Route::get('/', array('uses' => 'HomeController@getIndex'));
+Route::get('vacio', array('uses' => 'HomeController@vip'));
