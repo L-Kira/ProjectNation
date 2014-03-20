@@ -19,5 +19,12 @@ class HomeController extends BaseController {
 	{
 		return View::make('hello');
 	}
-
+	
+	public function getIndex(){
+		return View::make('Blog/Main/home');
+	}
+	
+	public function vip(){
+		return View::make('Blog/Admin/login');
+	}
 }
