@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.blog')
  
 @section('sidebar')
      @parent
