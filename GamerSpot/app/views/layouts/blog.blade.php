@@ -115,21 +115,21 @@
             <div id="banner" class="row">
                 <div class="slider-wrapper theme-default">
                     <div id="slider" class="nivoSlider">
-                        <a href="#"><img src="images/banner1.jpg" title="#banner1" alt="" /></a>
-                        <a href="#"><img src="images/banner2.jpg" title="#banner2" alt="" /></a>
-                        <a href="#"><img src="images/banner3.jpg" title="#banner3" alt="" /></a>
-                        <a href="#"><img src="images/banner4.jpg" title="#banner4" alt="" /></a>
+                        <a href="#"><img src="images/image_35293_fit_620.jpg" title="#banner1" alt="" /></a>
+                        <a href="#"><img src="images/news_photo_28999_1369164982.jpg" title="#banner2" alt="" /></a>
+                        <a href="#"><img src="images/xbox-one-vs-ps41.jpg" title="#banner3" alt="" /></a>
+                        <a href="#"><img src="images/League-of-legends-wallpaper.jpg" title="#banner4" alt="" /></a>
                     </div>
                     <!-- Banner Caption Start -->
                     <div id="banner1" class="nivo-html-caption">
                         <div class="capt-heading">
-                        	<h1>Tour <span class="colr">ROCK</span> THE WORLD</h1>
-                            <h1>2012<span class="colr">NYCITY</span></h1>
+                        	<h1>Riot <span class="colr">All-Star</span></h1>
+                            <h1>2014<span class="colr">PARIS</span></h1>
                         </div>
                         <div class="capt-text">
-                        	<h4 class="white">29 Jun 2012 - Jamie reaches number 1 in the Spanish iTunes chart!</h4>
+                        	<h4 class="white">25 Apr 2014 - 2014 All-Star Challenge!</h4>
                             <p>
-                            	Jamie's track 'Everything You Didn't Do' as featured in the San Miguel advert in Spain, reached number 1 in the Spanish iTunes chart today. A big thank you and congratulations to everyone involved in the campaign!
+                            	Game Mode voting for the 2014 All-Star event is now live. Don't miss your opportunity to cast your votes to influence the exciting new All-Star Challenge.
                             </p>
                         </div>
                     </div>
@@ -137,13 +137,13 @@
                     <!-- Banner Caption Start -->
                     <div id="banner2" class="nivo-html-caption">
                         <div class="capt-heading">
-                        	<h1>Tour <span class="colr">ROCK</span> THE WORLD</h1>
-                            <h1>2012<span class="colr">NYCITY</span></h1>
+                        	<h1>Riot <span class="colr">All-Star</span></h1>
+                            <h1>2014<span class="colr">PARIS</span></h1>
                         </div>
                         <div class="capt-text">
-                        	<h4 class="white">29 Jun 2012 - Jamie reaches number 1 in the Spanish iTunes chart!</h4>
+                        	<h4 class="white">25 Apr 2014 - 2014 All-Star Challenge!</h4>
                             <p>
-                            	Jamie's track 'Everything You Didn't Do' as featured in the San Miguel advert in Spain, reached number 1 in the Spanish iTunes chart today. A big thank you and congratulations to everyone involved in the campaign!
+                            	Game Mode voting for the 2014 All-Star event is now live. Don't miss your opportunity to cast your votes to influence the exciting new All-Star Challenge.
                             </p>
                         </div>
                     </div>
@@ -151,13 +151,13 @@
                     <!-- Banner Caption Start -->
                     <div id="banner3" class="nivo-html-caption">
                         <div class="capt-heading">
-                        	<h1>Tour <span class="colr">ROCK</span> THE WORLD</h1>
-                            <h1>2012<span class="colr">NYCITY</span></h1>
+                        	<h1>Riot <span class="colr">All-Star</span></h1>
+                            <h1>2014<span class="colr">PARIS</span></h1>
                         </div>
                         <div class="capt-text">
-                        	<h4 class="white">29 Jun 2012 - Jamie reaches number 1 in the Spanish iTunes chart!</h4>
+                        	<h4 class="white">25 Apr 2014 - 2014 All-Star Challenge!</h4>
                             <p>
-                            	Jamie's track 'Everything You Didn't Do' as featured in the San Miguel advert in Spain, reached number 1 in the Spanish iTunes chart today. A big thank you and congratulations to everyone involved in the campaign!
+                            	Game Mode voting for the 2014 All-Star event is now live. Don't miss your opportunity to cast your votes to influence the exciting new All-Star Challenge.
                             </p>
                         </div>
                     </div>
@@ -165,13 +165,13 @@
                     <!-- Banner Caption Start -->
                     <div id="banner4" class="nivo-html-caption">
                         <div class="capt-heading">
-                        	<h1>Tour <span class="colr">ROCK</span> THE WORLD</h1>
-                            <h1>2012<span class="colr">NYCITY</span></h1>
+                        	<h1>Riot <span class="colr">All-Star</span></h1>
+                            <h1>2014<span class="colr">PARIS</span></h1>
                         </div>
                         <div class="capt-text">
-                        	<h4 class="white">29 Jun 2012 - Jamie reaches number 1 in the Spanish iTunes chart!</h4>
+                        	<h4 class="white">25 Apr 2014 - 2014 All-Star Challenge!</h4>
                             <p>
-                            	Jamie's track 'Everything You Didn't Do' as featured in the San Miguel advert in Spain, reached number 1 in the Spanish iTunes chart today. A big thank you and congratulations to everyone involved in the campaign!
+                            	Game Mode voting for the 2014 All-Star event is now live. Don't miss your opportunity to cast your votes to influence the exciting new All-Star Challenge.
                             </p>
                         </div>
                     </div>
@@ -184,44 +184,42 @@
             <div class="container row">
             	<!-- Event Counter Start -->
             	<div class="one-third column small-banners">
-                	<a href="#" class="thumb"><img src="images/img1.jpg" alt="" /></a>
-                    <h1 class="title"><a class="white" href="timeline.html">Next Event</a></h1>
+                	<a href="#" class="thumb"><img style="height: 188px;width: 298px;" src="images/event1.jpg" alt="" /></a>
+                    <h1 class="title"><a class="white" href="timeline.html">Proximo Evento</a></h1>
                     <div class="event-counter">
-                    	<h3><a class="colr" href="timeline.html">Topfest- Letisko Piestany</a></h3>
+                    	<h3><a class="colr" href="timeline.html">Gamerspot- TNT Cup</a></h3>
                     	<div id="defaultCountdown"></div>
                     </div>
                 </div>
                 <!-- Event Counter End -->
                 <!-- Just Arrived Start -->
                 <div class="one-third column small-banners">
-                	<a href="albums.html" class="thumb"><img src="images/img2.jpg" alt="" /></a>
-                    <h1 class="title"><a class="white" href="albums.html">JUST ARRIVED</a></h1>
+                	<a href="albums.html" class="thumb"><img style="height: 188px;width: 298px;" src="images/event2.jpg" alt="" /></a>
+                    <h1 class="title"><a class="white" href="albums.html">Disponibles Ya!</a></h1>
                 </div>
                 <!-- Just Arrived End -->
                 <!-- Twitter Start -->
                 <div class="one-third column tweet-banners">
-                	<a href="#" class="thumb"><img src="images/img3.jpg" alt="" /><span>&nbsp;</span></a>
+                	<a href="#" class="thumb"><img style="height: 188px;width: 298px;" src="images/GamerSpot Portada.jpg" alt="" /><span>&nbsp;</span></a>
                     <!-- Twitter Scroll Start -->
                     <div class="scroll-sec">
                     	<div id="logoscroll" class="scroller">
                         	<ul>
                             	<li>
                                 	<div class="twitter-sec">
-                                        <h4 class="white">Mike Robinson</h4>
+                                        <h4 class="white">Gamer Spot Mexico</h4>
                                         <p class="date">4 hours Ago</p>
                                         <p class="txt">
-                                            If you enjoyed Nowhere Boy last night on Film4, you may like this 10 minute interview special with the stars/director.
-                http://t.co/ivdhun4e
+                                            Plants vs. Zombies Garden Warfare To March Onto PC This June http://ea.vg/1kdg35H
                                         </p>
                                     </div>
                                 </li>
                                 <li>
                                 	<div class="twitter-sec">
-                                        <h4 class="white">Mike Robinson</h4>
+                                        <h4 class="white">Gamer Spot Mexico</h4>
                                         <p class="date">4 hours Ago</p>
                                         <p class="txt">
-                                            If you enjoyed Nowhere Boy last night on Film4, you may like this 10 minute interview special with the stars/director.
-                http://t.co/ivdhun4e
+                                            Les tenemos Beta Keys de Dead Island: Epidemic, esten atentos a nuestros canales https://www.youtube.com/user/GspotVidz  http://www.twitch.tv/gspotvidz
                                         </p>
                                     </div>
                                 </li>
@@ -243,11 +241,11 @@
                 	<!-- Tabs Section Start -->
                     <div class="tab-section">
                     	<div class="tab-head">
-                        	<h1>LATEST FROM Rockit Band</h1>
+                        	<h1>LO &Uacute;LTIMO DE GAMERSPOT</h1>
                             <div class="tab_menu_container">
                                 <ul id="tab_menu">  
-                                    <li><a class="" rel="tab-news">News</a></li>
-                                    <li><a class="current" rel="tab-gallery">Gallery</a></li>
+                                    <li><a class="" rel="tab-news">Noticias</a></li>
+                                    <li><a class="current" rel="tab-gallery">Galer&iacute;a</a></li>
                                 </ul>
                                 <div class="clear"></div>
                             </div>
@@ -263,7 +261,7 @@
                                                 <h1>29JUN</h1>
                                             </div>
                                             <div class="desc">
-                                            	<h4><a href="blog-detail.html">Jamie reaches number 1 in the Spanish iTunes chart!</a></h4>
+                                            	<h4><a href="blog-detail.html">NAMCO BANDAI Games Europa anuncia ONE PIECE UNLIMITED WORLD RED para Europa y Australia</a></h4>
                                                 <p>
                                                 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tellus orci, semper et ornare dictum, varius ut tellus. In consecteturconsectetur adipiscing elit. In tellus orci, semper et ornare dictum, varius ut tellus. ... <a href="#">Read More</a>
                                                 </p>
@@ -275,7 +273,7 @@
                                                 <h1>03JUL</h1>
                                             </div>
                                             <div class="desc">
-                                            	<h4><a href="blog-detail.html">Jamie reaches number 1 in the Spanish iTunes chart!</a></h4>
+                                            	<h4><a href="blog-detail.html">NAMCO BANDAI Games Europa anuncia ONE PIECE UNLIMITED WORLD RED para Europa y Australasia</a></h4>
                                                 <p>
                                                 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tellus orci, semper et ornare dictum, varius ut tellus. In consecteturconsectetur adipiscing elit. In tellus orci, semper et ornare dictum, varius ut tellus. ... <a href="#">Read More</a>
                                                 </p>
@@ -287,7 +285,7 @@
                                                 <h1>01AUG</h1>
                                             </div>
                                             <div class="desc">
-                                            	<h4><a href="blog-detail.html">Jamie reaches number 1 in the Spanish iTunes chart!</a></h4>
+                                            	<h4><a href="blog-detail.html">GRID AUTOSPORT BLACK EDITION ya se puede reservar en las tiendas habituales</a></h4>
                                                 <p>
                                                 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tellus orci, semper et ornare dictum, varius ut tellus. In consecteturconsectetur adipiscing elit. In tellus orci, semper et ornare dictum, varius ut tellus. ... <a href="#">Read More</a>
                                                 </p>
@@ -295,7 +293,7 @@
                                         </li>
                                     </ul>
                                     <!-- News List End -->
-                                    <a href="#" class="button">View All NEWS and event</a>
+                                    <a href="#" class="button">Ver todas las noticias y eventos</a>
                                 </div> 
                                 <div id="tab-gallery" class="tab-list"> 
                                 	<!-- Gallery Small Section Start -->
@@ -347,7 +345,7 @@
                 </div>
                 <div class="one-third column left">
                 	<div class="box-small">
-                    	<h1 class="heading">Now Playing</h1>
+                    	<h1 class="heading">Reproduciendo ahora</h1>
                         <div class="box-in">
                         	<!-- Now Playing Start -->
                         	<div class="nowplaying">
@@ -410,17 +408,6 @@
                             <!-- Now Playing End -->
                             <div class="clear"></div>
                         </div>
-                        <!-- Buy Now Start -->
-                        <div class="buynow">
-                        	<h5 class="white">BUY NOW</h5>
-                            <ul>
-                            	<li><a href="#" class="soundcloud">&nbsp;</a></li>
-                                <li><a href="#" class="amazon">&nbsp;</a></li>
-                                <li><a href="#" class="apple">&nbsp;</a></li>
-                                <li><a href="#" class="grooveshark">&nbsp;</a></li>
-                            </ul>
-                        </div>
-                        <!-- Buy Now End -->
                     </div>
                 </div>
             </div>

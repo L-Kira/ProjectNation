@@ -3,7 +3,8 @@
 ================================================== */
 #outer-wrapper {
 	width:100%;
-	background:url(../images/bg-sides.png) no-repeat top center;
+	background: url("../images/1357128.jpg") no-repeat scroll center top / 100% 100% rgba(0, 0, 0, 0);
+	/*background:url(../images/bg-sides.png) no-repeat top center;*/
 }
 .inner {
 	width:980px;
